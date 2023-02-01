@@ -1,5 +1,5 @@
 # 01.02.2023
-from aiogram import     executor
+from aiogram import executor
 from module.base import init, create_table, done_cars
 from module.cars_parser import get_cars
 from module.start import start_command
